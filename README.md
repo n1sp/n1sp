@@ -8,9 +8,10 @@
 
 ## 🛠 Main Skills
 - Java / C#
-- Python（簡易スクリプト、スクレイピング系）
-- JavaScript / React / Next.js（学習中）
-- DB(Oracle/PostgreSQL/MySQL)
+- Python (simple scripts, web scraping)
+- JavaScript / React / Next.js (in progress)
+- Databases (Oracle / PostgreSQL / MySQL)
+
 
 ## 📊 Stats
 
