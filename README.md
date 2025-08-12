@@ -13,15 +13,11 @@
 - DB(Oracle/PostgreSQL/MySQL)
 
 ## 📊 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1sp&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1sp&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1sp&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1sp&theme=monokai)
-
 
 [![](https://raw.githubusercontent.com/n1sp/n1sp/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/n1sp/n1sp/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/n1sp/n1sp/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/n1sp/n1sp/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/n1sp/n1sp/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
